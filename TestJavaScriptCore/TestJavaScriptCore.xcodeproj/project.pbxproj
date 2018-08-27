@@ -14,6 +14,7 @@
 		F8B3DF312133C3E900F3DD61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8B3DF2F2133C3E900F3DD61 /* LaunchScreen.storyboard */; };
 		F8B3DF342133C3E900F3DD61 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B3DF332133C3E900F3DD61 /* main.m */; };
 		F8B3DF3C2133C44200F3DD61 /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8B3DF3B2133C44200F3DD61 /* JavaScriptCore.framework */; };
+		F8B3DF3E2133C52900F3DD61 /* Test.html in Resources */ = {isa = PBXBuildFile; fileRef = F8B3DF3D2133C52900F3DD61 /* Test.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		F8B3DF322133C3E900F3DD61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F8B3DF332133C3E900F3DD61 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F8B3DF3B2133C44200F3DD61 /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F8B3DF3D2133C52900F3DD61 /* Test.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Test.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				F8B3DF252133C3E000F3DD61 /* AppDelegate.m */,
 				F8B3DF272133C3E000F3DD61 /* ViewController.h */,
 				F8B3DF282133C3E000F3DD61 /* ViewController.m */,
+				F8B3DF3D2133C52900F3DD61 /* Test.html */,
 				F8B3DF2A2133C3E000F3DD61 /* Main.storyboard */,
 				F8B3DF2D2133C3E900F3DD61 /* Assets.xcassets */,
 				F8B3DF2F2133C3E900F3DD61 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8B3DF3E2133C52900F3DD61 /* Test.html in Resources */,
 				F8B3DF312133C3E900F3DD61 /* LaunchScreen.storyboard in Resources */,
 				F8B3DF2E2133C3E900F3DD61 /* Assets.xcassets in Resources */,
 				F8B3DF2C2133C3E000F3DD61 /* Main.storyboard in Resources */,
